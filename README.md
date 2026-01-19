@@ -37,5 +37,5 @@ This challenge is my commitment to:
 | Day | Topic | Key File / Output | Status |
 |----|------|------------------|--------|
 | Day 01 | Environment Setup & Basics | `HelloWorld.java` | ✅ Complete |
-| Day 02 | Variables & Data Types | `Variables.java` | ⏳ Planned |
+| Day 02 | Variables & Data Types | `Variables.java` | ✅ Complete |
 | Day 03 | Operators | `Operators.java` | ⏳ Planned |
