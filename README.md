@@ -38,4 +38,5 @@ This challenge is my commitment to:
 |----|------|------------------|--------|
 | Day 01 | Environment Setup & Basics | `HelloWorld.java` | ✅ Complete |
 | Day 02 | Variables & Data Types | `Variables.java` | ✅ Complete |
-| Day 03 | Operators | `Operators.java` | ⏳ Planned |
+| Day 03 | Operators | Operators.java | ✅ Complete |
+| Day 04 | Control Statements | Conditionals.java | ⏳ Planned |
