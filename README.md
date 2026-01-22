@@ -40,4 +40,4 @@ This challenge is my commitment to:
 | Day 02 | Variables & Data Types | `Variables.java` | ✅ Complete |
 | Day 03 | Operators | Operators.java | ✅ Complete |
 | Day 04 | Control Statements | Conditionals.java | ✅ Complete |
-| Day 05 | Loops | Loops.java | ⏳ Planned |
+| Day 05 | Loops | Loops.java | ✅ Complete |
