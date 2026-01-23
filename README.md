@@ -34,10 +34,11 @@ This challenge is my commitment to:
 
 ## 📅 Progress Tracker
 
-| Day | Topic | Key File / Output | Status |
-|----|------|------------------|--------|
-| Day 01 | Environment Setup & Basics | `HelloWorld.java` | ✅ Complete |
-| Day 02 | Variables & Data Types | `Variables.java` | ✅ Complete |
+| Day | Topic | Status |
+|----|------|--------------------------|
+| Day 01 | Environment Setup & Basics | ✅ Complete |
+| Day 02 | Variables & Data Types | ✅ Complete |
 | Day 03 | Operators | Operators.java | ✅ Complete |
-| Day 04 | Control Statements | Conditionals.java | ✅ Complete |
+| Day 04 | Control Statements | ✅ Complete |
 | Day 05 | Loops | Loops.java | ✅ Complete |
+| Day 06 | Patterns | Patterns.java | ✅ Complete |
