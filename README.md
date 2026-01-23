@@ -38,7 +38,7 @@ This challenge is my commitment to:
 |----|------|--------------------------|
 | Day 01 | Environment Setup & Basics | ✅ Complete |
 | Day 02 | Variables & Data Types | ✅ Complete |
-| Day 03 | Operators | Operators.java | ✅ Complete |
+| Day 03 | Operators | ✅ Complete |
 | Day 04 | Control Statements | ✅ Complete |
-| Day 05 | Loops | Loops.java | ✅ Complete |
-| Day 06 | Patterns | Patterns.java | ✅ Complete |
+| Day 05 | Loops | ✅ Complete |
+| Day 06 | Patterns | ✅ Complete |
