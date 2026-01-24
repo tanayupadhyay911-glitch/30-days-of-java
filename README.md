@@ -42,3 +42,12 @@ This challenge is my commitment to:
 | Day 04 | Control Statements | ✅ Complete |
 | Day 05 | Loops | ✅ Complete |
 | Day 06 | Patterns | ✅ Complete |
+| Day 07 | || ⏳ Planned ||
+| Day 08 | || ⏳ Planned ||
+| Day 09 | || ⏳ Planned ||
+| Day 10 | || ⏳ Planned ||
+| Day 11 | || ⏳ Planned ||
+| Day 12 | || ⏳ Planned ||
+| Day 13 | || ⏳ Planned ||
+| Day 14 | || ⏳ Planned ||
+| Day 15 | || ⏳ Planned ||
