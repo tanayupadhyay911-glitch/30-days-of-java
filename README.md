@@ -43,7 +43,7 @@ This challenge is my commitment to:
 | Day 05 | Loops | ✅ Complete |
 | Day 06 | Patterns | ✅ Complete |
 | Day 07 | Mini Revision | ✅ Complete |
-| Day 08 | || ⏳ Planned ||
+| Day 08 | Methods | ✅ Complete |
 | Day 09 | || ⏳ Planned ||
 | Day 10 | || ⏳ Planned ||
 | Day 11 | || ⏳ Planned ||
