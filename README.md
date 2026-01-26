@@ -44,7 +44,7 @@ This challenge is my commitment to:
 | Day 06 | Patterns | ✅ Complete |
 | Day 07 | Mini Revision | ✅ Complete |
 | Day 08 | Methods | ✅ Complete |
-| Day 09 | || ⏳ Planned ||
+| Day 09 | Method Overloading | ✅ Complete |
 | Day 10 | || ⏳ Planned ||
 | Day 11 | || ⏳ Planned ||
 | Day 12 | || ⏳ Planned ||
