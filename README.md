@@ -45,19 +45,19 @@ This challenge is my commitment to:
 | Day 07 | Mini Revision | ✅ Complete |
 | Day 08 | Methods | ✅ Complete |
 | Day 09 | Method Overloading | ✅ Complete |
-| Day 10 | || ⏳ Planned ||
-| Day 11 | || ⏳ Planned ||
-| Day 12 | || ⏳ Planned ||
-| Day 13 | || ⏳ Planned ||
-| Day 14 | || ⏳ Planned ||
-| Day 15 | || ⏳ Planned ||
-| Day 16 | || ⏳ Planned ||
-| Day 17 | || ⏳ Planned ||
-| Day 18 | || ⏳ Planned ||
-| Day 19 | || ⏳ Planned ||
-| Day 20 | || ⏳ Planned ||
-| Day 21 | || ⏳ Planned ||
-| Day 22 | || ⏳ Planned ||
+| Day 10 | Arrays | ✅ Complete |
+| Day 11 | Array Problems | ✅ Complete |
+| Day 12 |  Strings | ✅ Complete |
+| Day 13 | | ⏳ Planned |
+| Day 14 | | ⏳ Planned |
+| Day 15 | | ⏳ Planned |
+| Day 16 | | ⏳ Planned |
+| Day 17 | | ⏳ Planned |
+| Day 18 | | ⏳ Planned |
+| Day 19 | | ⏳ Planned |
+| Day 20 | | ⏳ Planned |
+| Day 21 | | ⏳ Planned |
+| Day 22 | | ⏳ Planned |
 | Day 23 | || ⏳ Planned ||
 | Day 24 | || ⏳ Planned ||
 | Day 25 | || ⏳ Planned ||
