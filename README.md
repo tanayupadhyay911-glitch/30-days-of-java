@@ -29,130 +29,138 @@ This challenge is my commitment to:
 - Improve logical thinking & debugging skills  
 - Maintain consistency and discipline  
 - Prepare for future backend & software roles
-## 🔥 30 Days of Java – Summary (Day 1 → Day 14)
--
-- ✅ Day 01 – Java Environment & Basics
+# 🚀 30 Days of Java Journey (Day 1–14)
 
-📌 What you learned:
-What Java is & why it’s used
-JDK, JRE, JVM
-How Java code runs
-Writing your first program
+This repository documents my **30 Days of Java** learning journey.  
+From absolute basics to mini projects, this repo reflects my daily progress, practice, and understanding of Java fundamentals.
 
-✅ Day 02 – Variables & Data Types
+---
 
-📌 What you learned:
-Variables = store data
-Data types:
-int, double, char, boolean
-Naming rules
+## 📌 What I’ve Learned So Far (Day 1 → Day 14)
 
-✅ Day 03 – Operators
+### ✅ Day 01 – Java Basics & Setup
+- What Java is and why it’s used
+- JVM, JRE, and JDK
+- How a Java program executes
+- Basic program structure
 
-📌 What you learned:
-Arithmetic (+ - * / %)
-Relational (> < ==)
-Logical (&& || !)
-Assignment (= += -=)
+---
 
+### ✅ Day 02 – Variables & Data Types
+- Storing data using variables
+- Primitive data types (`int`, `double`, `char`, `boolean`)
+- Importance of choosing the right data type
 
-✅ Day 04 – Conditional Statements
+---
 
-📌 What you learned:
-Decision making in Java
-if, if-else, else-if
-switch statement
+### ✅ Day 03 – Operators
+- Arithmetic, relational, logical, and assignment operators
+- Performing calculations and comparisons
 
-✅ Day 05 – Loops
+---
 
-📌 What you learned:
-Repeating code
-for, while, do-while
-Loop control
+### ✅ Day 04 – Conditional Statements
+- Decision making in Java
+- `if`, `else-if`, `else`
+- `switch` case and its use cases
 
-✅ Day 06 – Nested Logic & Practice
+---
 
-📌 What you learned:
-Nested loops
-Combining conditions + loops
-Pattern-based thinking
+### ✅ Day 05 – Loops
+- Repeating tasks using loops
+- `for`, `while`, and `do-while`
+- Loop control and conditions
 
-✅ Day 07 – Mini Revision
+---
 
-📌 What you revised:
-Variables
-Conditions
-Loops
+### ✅ Day 06 – Logic Building
+- Nested loops
+- Combining loops with conditions
+- Strengthening logical thinking
 
-⚠️ Most Repeated Mistakes You Noticed:
-Missing ;
-Wrong { } alignment
-Overwriting original values
-+ confusion inside ()
-Off-by-one loop errors (extra iteration)
-🎯 Outcome:
-Stronger basics 💪
+---
 
-✅ Day 08 – Methods
+### ✅ Day 07 – Revision & Common Mistakes
+- Revision of loops and conditions
+- Common beginner mistakes:
+  - Missing semicolons
+  - Incorrect braces `{ }`
+  - Overwriting values
+  - Operator confusion
+  - Loop boundary errors
 
-📌 What you learned:
-Methods = reusable code
-Parameters & return values
-void vs return
+---
 
-✅ Day 09 – Method Overloading
+### ✅ Day 08 – Methods
+- Creating reusable blocks of code
+- Parameters and return values
+- `void` vs non-void methods
 
-📌 What you learned:
-Same method name
-Different parameters
-Compile-time polymorphism
+---
 
-✅ Day 10 – Arrays
+### ✅ Day 09 – Method Overloading
+- Same method name with different parameters
+- Compile-time polymorphism
+- Improving code readability
 
-📌 What you learned:
-Store multiple values
-1D & 2D arrays
-Traversal, sum, max
+---
 
-✅ Day 11 – Array Problems
+### ✅ Day 10 – Arrays
+- Storing multiple values efficiently
+- 1D and 2D arrays
+- Traversal, sum, max, and min operations
 
-📌 What you practiced:
-Reverse array
-Find max/min
-Loop-based logic
+---
 
-🧠 Skill gained:
-Problem solving 🧩
+### ✅ Day 11 – Array Problem Solving
+- Reversing arrays
+- Finding maximum and minimum values
+- Logic-based array problems
 
-✅ Day 12 – Strings
+---
 
-📌 What you learned:
-String class
-String methods
-Immutability
+### ✅ Day 12 – Strings
+- Working with text data
+- Common string methods
+- Understanding immutability
 
-✅ Day 13 – StringBuilder
+---
 
-📌 What you learned:
-Difference between String & StringBuilder
-Mutable strings
-Performance benefit
+### ✅ Day 13 – StringBuilder
+- Difference between `String` and `StringBuilder`
+- Mutable strings
+- Performance benefits
+- When to use StringBuilder
 
-✅ Day 14 – Mini Project 🎉
+---
 
-📌 What you built:
-🎯 Student Marks Calculator
+### ✅ Day 14 – Mini Project
+- Built a **Student Marks Calculator**
+- Took user input
+- Calculated total, percentage, and grade
+- Combined loops, conditions, and logic
 
-Input marks
-Calculate total & percentage
-Assign grades
+---
 
-🧠 Concepts combined:
-✔ Loops
-✔ Conditions
-✔ Variables
-✔ Scanner
-✔ Logic building
+## 🎯 Key Takeaways
+- Strong fundamentals are more important than complex code
+- Consistency matters more than speed
+- Making mistakes is part of learning
+- Small daily progress builds confidence
+
+---
+
+## 🚀 What’s Next
+- Object-Oriented Programming (OOP)
+- Classes & Objects
+- Constructors, Inheritance, Polymorphism
+- More mini projects
+
+---
+
+📌 *This repository will be updated daily as I continue my Java learning journey.*
+
+⭐ If you find this helpful, feel free to star the repo!
 
 
 ---
