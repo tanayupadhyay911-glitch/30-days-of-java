@@ -28,7 +28,132 @@ This challenge is my commitment to:
 - Understand object-oriented programming deeply  
 - Improve logical thinking & debugging skills  
 - Maintain consistency and discipline  
-- Prepare for future backend & software roles  
+- Prepare for future backend & software roles
+## 🔥 30 Days of Java – Summary (Day 1 → Day 14)
+-
+- ✅ Day 01 – Java Environment & Basics
+
+📌 What you learned:
+What Java is & why it’s used
+JDK, JRE, JVM
+How Java code runs
+Writing your first program
+
+✅ Day 02 – Variables & Data Types
+
+📌 What you learned:
+Variables = store data
+Data types:
+int, double, char, boolean
+Naming rules
+
+✅ Day 03 – Operators
+
+📌 What you learned:
+Arithmetic (+ - * / %)
+Relational (> < ==)
+Logical (&& || !)
+Assignment (= += -=)
+
+
+✅ Day 04 – Conditional Statements
+
+📌 What you learned:
+Decision making in Java
+if, if-else, else-if
+switch statement
+
+✅ Day 05 – Loops
+
+📌 What you learned:
+Repeating code
+for, while, do-while
+Loop control
+
+✅ Day 06 – Nested Logic & Practice
+
+📌 What you learned:
+Nested loops
+Combining conditions + loops
+Pattern-based thinking
+
+✅ Day 07 – Mini Revision
+
+📌 What you revised:
+Variables
+Conditions
+Loops
+
+⚠️ Most Repeated Mistakes You Noticed:
+Missing ;
+Wrong { } alignment
+Overwriting original values
++ confusion inside ()
+Off-by-one loop errors (extra iteration)
+🎯 Outcome:
+Stronger basics 💪
+
+✅ Day 08 – Methods
+
+📌 What you learned:
+Methods = reusable code
+Parameters & return values
+void vs return
+
+✅ Day 09 – Method Overloading
+
+📌 What you learned:
+Same method name
+Different parameters
+Compile-time polymorphism
+
+✅ Day 10 – Arrays
+
+📌 What you learned:
+Store multiple values
+1D & 2D arrays
+Traversal, sum, max
+
+✅ Day 11 – Array Problems
+
+📌 What you practiced:
+Reverse array
+Find max/min
+Loop-based logic
+
+🧠 Skill gained:
+Problem solving 🧩
+
+✅ Day 12 – Strings
+
+📌 What you learned:
+String class
+String methods
+Immutability
+
+✅ Day 13 – StringBuilder
+
+📌 What you learned:
+Difference between String & StringBuilder
+Mutable strings
+Performance benefit
+
+✅ Day 14 – Mini Project 🎉
+
+📌 What you built:
+🎯 Student Marks Calculator
+
+Input marks
+Calculate total & percentage
+Assign grades
+
+🧠 Concepts combined:
+✔ Loops
+✔ Conditions
+✔ Variables
+✔ Scanner
+✔ Logic building
+
 
 ---
 
@@ -48,8 +173,8 @@ This challenge is my commitment to:
 | Day 10 | Arrays | ✅ Complete |
 | Day 11 | Array Problems | ✅ Complete |
 | Day 12 |  Strings | ✅ Complete |
-| Day 13 | | ⏳ Planned |
-| Day 14 | | ⏳ Planned |
+| Day 13 | StringBuilder | ✅ Complete |
+| Day 14 |  Mini Project  | ✅ Complete |
 | Day 15 | | ⏳ Planned |
 | Day 16 | | ⏳ Planned |
 | Day 17 | | ⏳ Planned |
