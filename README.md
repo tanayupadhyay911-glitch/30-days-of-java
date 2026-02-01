@@ -142,6 +142,17 @@ From absolute basics to mini projects, this repo reflects my daily progress, pra
 
 ---
 
+### ✅ Day 15 – OOP Basics (Classes & Objects)
+
+- Learned the fundamentals of Object-Oriented Programming (OOP)
+- Understood the difference between classes (blueprints) and objects (instances)
+- Created classes with variables and methods
+- Created objects using the `new` keyword
+- Accessed class members using object references
+- Learned how OOP helps model real-world problems in Java
+
+---
+
 ## 🎯 Key Takeaways
 - Strong fundamentals are more important than complex code
 - Consistency matters more than speed
@@ -183,7 +194,7 @@ From absolute basics to mini projects, this repo reflects my daily progress, pra
 | Day 12 |  Strings | ✅ Complete |
 | Day 13 | StringBuilder | ✅ Complete |
 | Day 14 |  Mini Project  | ✅ Complete |
-| Day 15 | | ⏳ Planned |
+| Day 15 | OOP Basics | ✅ Complete |
 | Day 16 | | ⏳ Planned |
 | Day 17 | | ⏳ Planned |
 | Day 18 | | ⏳ Planned |
