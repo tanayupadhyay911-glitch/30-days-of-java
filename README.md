@@ -36,7 +36,7 @@ From absolute basics to mini projects, this repo reflects my daily progress, pra
 
 ---
 
-## 📌 What I’ve Learned So Far (Day 1 → Day 14)
+## 📌 What I’ve Learned So Far (Day 1 → Day 15)
 
 ### ✅ Day 01 – Java Basics & Setup
 - What Java is and why it’s used
