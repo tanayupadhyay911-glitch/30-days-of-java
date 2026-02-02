@@ -195,7 +195,7 @@ From absolute basics to mini projects, this repo reflects my daily progress, pra
 | Day 13 | StringBuilder | ✅ Complete |
 | Day 14 |  Mini Project  | ✅ Complete |
 | Day 15 | OOP Basics | ✅ Complete |
-| Day 16 | | ⏳ Planned |
+| Day 16 | Constructors | ✅ Complete |
 | Day 17 | | ⏳ Planned |
 | Day 18 | | ⏳ Planned |
 | Day 19 | | ⏳ Planned |
