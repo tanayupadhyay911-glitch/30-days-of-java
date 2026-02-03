@@ -29,14 +29,14 @@ This challenge is my commitment to:
 - Improve logical thinking & debugging skills  
 - Maintain consistency and discipline  
 - Prepare for future backend & software roles
-# 🚀 30 Days of Java Journey (Day 1–15)
+# 🚀 30 Days of Java Journey (Day 1–17)
 
 This repository documents my **30 Days of Java** learning journey.  
 From absolute basics to mini projects, this repo reflects my daily progress, practice, and understanding of Java fundamentals.
 
 ---
 
-## 📌 What I’ve Learned So Far (Day 1 → Day 15)
+## 📌 What I’ve Learned So Far (Day 1 → Day 17)
 
 ### ✅ Day 01 – Java Basics & Setup
 - What Java is and why it’s used
@@ -153,6 +153,20 @@ From absolute basics to mini projects, this repo reflects my daily progress, pra
 
 ---
 
+## 📅 Day 16 — Constructors in Java
+
+On Day 16, I learned about **constructors**, which are special methods used to **initialize objects** at the time they are created. Constructors have the **same name as the class**, do **not return any value**, and are called **automatically** when an object is created.
+
+I covered **default constructors**, **parameterized constructors**, and **constructor overloading**, which help make Java programs more structured, readable, and reliable.
+
+---
+
+## 📅 Day 17 — Encapsulation in Java
+
+On Day 17, I learned about **encapsulation**, a core concept of Object-Oriented Programming used to **protect class data**. By declaring variables as `private` and accessing them through **public getters and setters**, encapsulation ensures controlled access to data.
+
+This approach improves **data security**, **maintainability**, and helps prevent accidental modification of variables, which is essential for building scalable Java applications.
+
 ## 🎯 Key Takeaways
 - Strong fundamentals are more important than complex code
 - Consistency matters more than speed
@@ -196,7 +210,7 @@ From absolute basics to mini projects, this repo reflects my daily progress, pra
 | Day 14 |  Mini Project  | ✅ Complete |
 | Day 15 | OOP Basics | ✅ Complete |
 | Day 16 | Constructors | ✅ Complete |
-| Day 17 | | ⏳ Planned |
+| Day 17 | Encapsulation | ✅ Complete |
 | Day 18 | | ⏳ Planned |
 | Day 19 | | ⏳ Planned |
 | Day 20 | | ⏳ Planned |
