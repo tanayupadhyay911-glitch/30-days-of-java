@@ -167,6 +167,23 @@ On Day 17, I learned about **encapsulation**, a core concept of Object-Oriented 
 
 This approach improves **data security**, **maintainability**, and helps prevent accidental modification of variables, which is essential for building scalable Java applications.
 
+## 📅 Day 18 — Inheritance
+
+Learned about **inheritance**, where a child class reuses properties and methods of a parent class using the `extends` keyword. This helps reduce code duplication, represents real-world **IS-A relationships**, and improves code organization and maintainability.
+
+---
+
+## 📅 Day 19 — Method Overriding
+
+Studied **method overriding**, where a child class provides its own implementation of a method already defined in the parent class. Overriding uses the same method name and parameters and is resolved at **runtime**, enabling runtime polymorphism in Java.
+
+---
+
+## 📅 Day 20 — Polymorphism & Revision
+
+Revised core OOP concepts and learned about **polymorphism**, which allows one method to have multiple forms based on the object type. Practicing questions helped connect inheritance, overriding, and polymorphism into a complete understanding of Java’s OOP design.
+
+
 ## 🎯 Key Takeaways
 - Strong fundamentals are more important than complex code
 - Consistency matters more than speed
