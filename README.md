@@ -211,9 +211,9 @@ This approach improves **data security**, **maintainability**, and helps prevent
 | Day 15 | OOP Basics | ✅ Complete |
 | Day 16 | Constructors | ✅ Complete |
 | Day 17 | Encapsulation | ✅ Complete |
-| Day 18 | | ⏳ Planned |
-| Day 19 | | ⏳ Planned |
-| Day 20 | | ⏳ Planned |
+| Day 18 | Method Overriding | ✅ Complete |
+| Day 19 | Polymorphism|  ✅ Complete |
+| Day 20 | MiniRevision| ✅ Complete |
 | Day 21 | | ⏳ Planned |
 | Day 22 | | ⏳ Planned |
 | Day 23 | || ⏳ Planned ||
