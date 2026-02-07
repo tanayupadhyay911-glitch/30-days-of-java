@@ -29,14 +29,14 @@ This challenge is my commitment to:
 - Improve logical thinking & debugging skills  
 - Maintain consistency and discipline  
 - Prepare for future backend & software roles
-# 🚀 30 Days of Java Journey (Day 1–17)
+# 🚀 30 Days of Java Journey (Day 1–20)
 
 This repository documents my **30 Days of Java** learning journey.  
 From absolute basics to mini projects, this repo reflects my daily progress, practice, and understanding of Java fundamentals.
 
 ---
 
-## 📌 What I’ve Learned So Far (Day 1 → Day 17)
+## 📌 What I’ve Learned So Far (Day 1 → Day 20)
 
 ### ✅ Day 01 – Java Basics & Setup
 - What Java is and why it’s used
