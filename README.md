@@ -228,12 +228,12 @@ Revised core OOP concepts and learned about **polymorphism**, which allows one m
 | Day 15 | OOP Basics | ✅ Complete |
 | Day 16 | Constructors | ✅ Complete |
 | Day 17 | Encapsulation | ✅ Complete |
-| Day 18 | Method Overriding | ✅ Complete |
-| Day 19 | Polymorphism|  ✅ Complete |
-| Day 20 | MiniRevision| ✅ Complete |
-| Day 21 | | ⏳ Planned |
-| Day 22 | | ⏳ Planned |
-| Day 23 | || ⏳ Planned ||
+| Day 18 |  Inheritance| ✅ Complete |
+| Day 19 | Method Overriding |  ✅ Complete |
+| Day 20 |  Polymorphism | ✅ Complete |
+| Day 21 | MiniRevision | ✅ Complete |
+| Day 22 | Abstract Class | ✅ Complete |
+| Day 23 | Interface | ✅ Complete |
 | Day 24 | || ⏳ Planned ||
 | Day 25 | || ⏳ Planned ||
 | Day 26 | || ⏳ Planned ||
