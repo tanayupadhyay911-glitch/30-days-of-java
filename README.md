@@ -1,4 +1,4 @@
-# ☕ 30 Days of Java Challenge
+b# ☕ 30 Days of Java Challenge
 
 I’m starting a **30 Days of Java** learning challenge to build a strong foundation in Java and core programming concepts.  
 This repository documents my **daily progress**, **code implementations**, and **learning outcomes** as I grow consistently—one day at a time.
@@ -236,7 +236,7 @@ Revised core OOP concepts and learned about **polymorphism**, which allows one m
 | Day 23 | Interface | ✅ Complete |
 | Day 24 |  Data Handling | ✅ Complete |
 | Day 25 | Practice| ✅ Complete |
-| Day 26 | | Revision | ✅ Complete |
+| Day 26 | Revision | ✅ Complete |
 | Day 27 | || ⏳ Planned ||
 | Day 28 | || ⏳ Planned ||
 | Day 29 | || ⏳ Planned ||
