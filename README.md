@@ -234,9 +234,9 @@ Revised core OOP concepts and learned about **polymorphism**, which allows one m
 | Day 21 | MiniRevision | ✅ Complete |
 | Day 22 | Abstract Class | ✅ Complete |
 | Day 23 | Interface | ✅ Complete |
-| Day 24 | || ⏳ Planned ||
-| Day 25 | || ⏳ Planned ||
-| Day 26 | || ⏳ Planned ||
+| Day 24 |  Data Handling | ✅ Complete |
+| Day 25 | Practice| ✅ Complete |
+| Day 26 | | Revision | ✅ Complete ||
 | Day 27 | || ⏳ Planned ||
 | Day 28 | || ⏳ Planned ||
 | Day 29 | || ⏳ Planned ||
