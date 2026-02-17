@@ -153,35 +153,89 @@ From absolute basics to mini projects, this repo reflects my daily progress, pra
 
 ---
 
-## 📅 Day 16 — Constructors in Java
+### 📅 Day 16 — Constructors in Java
 
-On Day 16, I learned about **constructors**, which are special methods used to **initialize objects** at the time they are created. Constructors have the **same name as the class**, do **not return any value**, and are called **automatically** when an object is created.
+On Day 16, I learned about **constructors**, which are special methods used to **initialize objects** at the time they are created. 
+Constructors have the **same name as the class**, do **not return any value**, and are called **automatically** when an object is created.
 
 I covered **default constructors**, **parameterized constructors**, and **constructor overloading**, which help make Java programs more structured, readable, and reliable.
 
 ---
 
-## 📅 Day 17 — Encapsulation in Java
+### 📅 Day 17 — Encapsulation in Java
 
-On Day 17, I learned about **encapsulation**, a core concept of Object-Oriented Programming used to **protect class data**. By declaring variables as `private` and accessing them through **public getters and setters**, encapsulation ensures controlled access to data.
+On Day 17, I learned about **encapsulation**, a core concept of Object-Oriented Programming used to **protect class data**. 
+By declaring variables as `private` and accessing them through **public getters and setters**, encapsulation ensures controlled access to data.
 
 This approach improves **data security**, **maintainability**, and helps prevent accidental modification of variables, which is essential for building scalable Java applications.
 
-## 📅 Day 18 — Inheritance
+### 📅 Day 18 — Inheritance
 
-Learned about **inheritance**, where a child class reuses properties and methods of a parent class using the `extends` keyword. This helps reduce code duplication, represents real-world **IS-A relationships**, and improves code organization and maintainability.
-
----
-
-## 📅 Day 19 — Method Overriding
-
-Studied **method overriding**, where a child class provides its own implementation of a method already defined in the parent class. Overriding uses the same method name and parameters and is resolved at **runtime**, enabling runtime polymorphism in Java.
+Learned about **inheritance**, where a child class reuses properties and methods of a parent class using the `extends` keyword. 
+This helps reduce code duplication, represents real-world **IS-A relationships**, and improves code organization and maintainability.
 
 ---
 
-## 📅 Day 20 — Polymorphism & Revision
+### 📅 Day 19 — Method Overriding
 
-Revised core OOP concepts and learned about **polymorphism**, which allows one method to have multiple forms based on the object type. Practicing questions helped connect inheritance, overriding, and polymorphism into a complete understanding of Java’s OOP design.
+Studied **method overriding**, where a child class provides its own implementation of a method already defined in the parent class. 
+Overriding uses the same method name and parameters and is resolved at **runtime**, enabling runtime polymorphism in Java.
+
+---
+
+## 📅 Day 20 — Polymorphism
+Learned how polymorphism allows one method to behave differently depending on the object reference. Understood runtime polymorphism using method overriding and how it increases flexibility in Java programs.
+
+---
+
+## 📅 Day 21 — Mini Revision
+Revised previously learned OOP concepts and strengthened understanding by reviewing inheritance, constructors, encapsulation, and overriding.
+
+---
+
+## 📅 Day 22 — Abstract Class
+Studied abstract classes and abstract methods. Learned how abstract classes act as blueprints and enforce structure for child classes.
+
+---
+
+## 📅 Day 23 — Interface
+Learned how interfaces define a contract that classes must implement. Understood how Java supports multiple inheritance using interfaces.
+
+---
+
+## 📅 Day 24 — Exception Handling
+Studied try, catch, and finally blocks to handle runtime errors. Learned the importance of writing safe and crash-resistant programs.
+
+---
+
+## 📅 Day 25 — Practice
+Solved multiple problems based on OOP concepts to improve logical thinking and coding confidence.
+
+---
+
+## 📅 Day 26 — Revision
+Revised core Java concepts from basics to OOP to ensure strong understanding and clarity of concepts.
+
+---
+
+## 📅 Day 27 — OOPs Revision
+Focused specifically on Object-Oriented Programming concepts like encapsulation, inheritance, polymorphism, abstraction, and interfaces.
+
+---
+
+## 📅 Day 28 — Packages & Wrapper Classes
+Learned how to organize code using packages and understood wrapper classes, autoboxing, and unboxing concepts.
+
+---
+
+## 📅 Day 29 — Full Revision
+Performed complete revision from Day 1 to Day 29, connecting all concepts and identifying areas for improvement.
+
+---
+
+## 📅 Day 30 — Final Project
+Built a final project applying multiple OOP concepts together and successfully completed the 30 Days of Java challenge.
+
 
 
 ## 🎯 Key Takeaways
@@ -234,10 +288,10 @@ Revised core OOP concepts and learned about **polymorphism**, which allows one m
 | Day 21 | MiniRevision | ✅ Complete |
 | Day 22 | Abstract Class | ✅ Complete |
 | Day 23 | Interface | ✅ Complete |
-| Day 24 |  Data Handling | ✅ Complete |
+| Day 24 | Exception Handling | ✅ Complete |
 | Day 25 | Practice| ✅ Complete |
 | Day 26 | Revision | ✅ Complete |
-| Day 27 | || ⏳ Planned ||
-| Day 28 | || ⏳ Planned ||
-| Day 29 | || ⏳ Planned ||
-| Day 30 | || ⏳ Planned ||
+| Day 27 | OOps Revision  | ✅ Complete |
+| Day 28 | Packages and Wrapper Classes| ✅ Complete|
+| Day 29 | Full Revision | ✅ Complete |
+| Day 30 | Final Project| ✅ Complete |
